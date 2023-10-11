@@ -26,12 +26,12 @@ const ViewLocation = () => {
             alt="nigeria map"
             className={styles.nigeria_map}
           />
-          <h1>TellTheClouds</h1>
+          <h1>Forecast me</h1>
         </div>
       </div>
       <div className={styles.weatherBox}>
         <h3>
-          Weather in
+          Weather now in
           {' '}
           { name}
         </h3>

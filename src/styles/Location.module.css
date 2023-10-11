@@ -2,7 +2,7 @@
   background-color: #ea4a88;
   margin: 0.1rem;
   text-align: center;
-  color: #fff;
+  color: whitesmoke;
   max-width: 30rem;
   font-size: 20px;
   height: 7rem;
@@ -13,8 +13,8 @@
 }
 
 .arrow {
-  color: #fff;
-  border: 1px solid #fff;
+  color: whitesmoke;
+  border: 1px solid whitesmoke;
   border-radius: 50%;
   padding: 0.5rem;
   font-size: 16px;
@@ -25,7 +25,7 @@
 
 .arrow:hover {
   color: #ea4a88;
-  background-color: #fff;
+  background-color: whitesmoke;
 }
 
 @media (min-width: 1024px) {

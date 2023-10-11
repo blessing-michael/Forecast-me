@@ -32,7 +32,7 @@ const Home = () => {
             alt="nigeria map"
             className={styles.nigeria_map}
           />
-          <h1>TellTheClouds</h1>
+          <h1>Forecast me</h1>
         </div>
         <input
           type="search"
