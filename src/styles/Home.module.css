@@ -1,0 +1,66 @@
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.nigeria_map {
+  width: 5rem;
+}
+
+.header {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.header h1 {
+  color: #fff;
+}
+
+.header > input {
+  padding: 1rem;
+}
+
+.location_container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  max-width: 35rem;
+  margin: auto;
+  padding: 0.2rem;
+}
+
+@media (min-width: 768px) {
+  .header {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .header input {
+    width: 28rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .header {
+    max-width: 1400px;
+    margin: auto;
+  }
+
+  .header h1 {
+    font-size: 32px;
+  }
+
+  .header img {
+    width: 7rem;
+  }
+
+  ::placeholder {
+    font-size: 20px;
+  }
+
+  .location_container {
+    max-width: 60rem;
+  }
+}
