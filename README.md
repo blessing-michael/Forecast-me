@@ -115,7 +115,7 @@ To run the project, execute the following command:
 
 ## 🚀 Presentation <a name="Presentation"></a>
 <!-- Presentation Video -->
-- This is Blefi presentation <a href="https://drive.google.com/file/d/1MHhrG97FA1rZUoE5seAqxrugmNUlvloV/view">Presentation Video</a>
+- This is Blefi presentation <a href="https://www.loom.com/share/a1e9ff69da244b199442cfc929ec3eaa?sid=f55e15af-4885-4305-8cab-2f295fed3b00">Presentation Video</a>
 
 
 ## 🤝 Contributing <a name="contributing"></a>
