@@ -38,7 +38,7 @@ describe('ViewLocation Component', () => {
       </Provider>,
     );
 
-    expect(screen.getByText('TellTheClouds')).toBeInTheDocument();
+    expect(screen.getByText('Forecast me')).toBeInTheDocument();
     expect(screen.getByText('Weather in NewYork')).toBeInTheDocument();
 
     await new Promise((resolve) => setTimeout(resolve, 0));

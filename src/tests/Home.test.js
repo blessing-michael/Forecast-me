@@ -28,7 +28,7 @@ describe('Home Component', () => {
       </Provider>,
     );
 
-    expect(screen.getByText('TellTheClouds')).toBeInTheDocument();
+    expect(screen.getByText('Forecast me')).toBeInTheDocument();
     expect(screen.getByPlaceholderText('Search Location')).toBeInTheDocument();
     expect(screen.getByAltText('nigeria map')).toBeInTheDocument();
   });
