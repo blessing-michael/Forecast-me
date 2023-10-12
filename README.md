@@ -93,7 +93,7 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Blessing Michael Asuquo**
 
 - GitHub: [blessing-michael](https://github.com/blessing-michael)
 - Twitter: [@toonmystory](https://twitter.com/toonmystory)
