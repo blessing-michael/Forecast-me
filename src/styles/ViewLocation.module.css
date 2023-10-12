@@ -18,7 +18,7 @@
 .header h1,
 .weatherBox,
 h3 {
-  color: whitesmoke;
+  color: #fff;
 }
 
 .header h1 {
@@ -32,7 +32,7 @@ h3 {
 
 .backBtn:hover {
   color: #ea4a88;
-  background-color: whitesmoke;
+  background-color: #fff;
   border-radius: 50%;
 }
 
@@ -46,7 +46,7 @@ h3 {
 
 .weatherDetails > * {
   height: 5rem;
-  color: whitesmoke;
+  color: #fff;
   display: flex;
   align-items: center;
   padding-left: 1rem;
